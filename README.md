@@ -1,30 +1,44 @@
-# \# League Manager
+\# League Manager
 
-# 
 
-# Java ile geliştirilen bir futbol ligi yönetim sistemi.
 
-# 
+Java ile geliştirilen bir futbol ligi yönetim sistemi.
 
-# \## Projenin Amacı
 
-# 
 
-# \- Takım oluşturmak
+\## Projenin Amacı
 
-# \- Takımları listelemek
 
-# \- Maç sonuçlarını kaydetmek
 
-# \- Puan durumunu hesaplamak
+\- Takım oluşturmak
 
-# 
+\- Takımları listelemek
 
-# \## Kullanılan Teknolojiler
+\- Maç sonuçlarını kaydetmek
 
-# 
+\- Puan durumunu hesaplamak
 
-# \- Java
 
-# \- Git ve GitHub
+
+\## Kullanılan Teknolojiler
+
+
+
+\- Java
+
+\- Git ve GitHub
+
+
+
+\## Planlanan Özellikler
+
+
+
+\- Takım ekleme ve silme
+
+\- Maç sonucu kaydetme
+
+\- Puan tablosu oluşturma
+
+\- Takım istatistiklerini görüntüleme
 
